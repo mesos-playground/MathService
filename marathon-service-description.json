@@ -29,7 +29,7 @@
           "protocol": "tcp",
           "name": "math-service",
           "labels": {
-            "VIP_0": "/micro/math-service:3000"
+            "VIP_0": "/micro-math-service:3000"
           }
         }
       ],
